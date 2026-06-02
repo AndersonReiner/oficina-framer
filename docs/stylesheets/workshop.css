@@ -115,6 +115,36 @@
   --md-footer-bg-color--dark: #000000;
 }
 
+.md-footer {
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-footer-meta {
+  background:
+    linear-gradient(135deg, #000000, #050517 72%, #000080);
+}
+
+.md-footer-meta__inner {
+  align-items: center;
+}
+
+.md-footer__link {
+  color: var(--md-default-fg-color--light);
+}
+
+.md-footer__link:hover,
+.md-footer-meta a:hover {
+  color: var(--md-typeset-a-color);
+}
+
+.md-social__link {
+  opacity: 0.82;
+}
+
+.md-social__link:hover {
+  opacity: 1;
+}
+
 .hero {
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 28px;

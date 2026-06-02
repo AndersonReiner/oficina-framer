@@ -23,6 +23,7 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
+    - navigation.footer
     - navigation.sections
     - navigation.top
     - content.code.copy
@@ -34,6 +35,20 @@ theme:
 
 extra_css:
   - stylesheets/workshop.css
+
+copyright: Copyright &copy; 2026 Anderson Reiner
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AndersonReiner/oficina-framer
+      name: Repositorio da oficina no GitHub
+    - icon: fontawesome/solid/display
+      link: https://andersonreiner.github.io/oficina-framer/
+      name: Pagina publicada da oficina
+    - icon: fontawesome/solid/pen-ruler
+      link: https://www.framer.com/
+      name: Framer
 
 nav:
   - Inicio: index.md
