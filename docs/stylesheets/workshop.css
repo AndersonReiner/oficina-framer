@@ -19,7 +19,6 @@
 @media screen and (min-width: 76.25em) {
   .md-header__inner {
     gap: 0.75rem;
-    position: relative;
   }
 
   .md-header__title {
@@ -33,15 +32,11 @@
     max-width: 24rem;
     min-width: 16rem;
     padding: 0;
-    position: absolute;
-    right: 3.25rem;
-    top: 50%;
-    transform: translateY(-50%);
     width: 100%;
   }
 
   .md-header__option {
-    margin-left: auto;
+    margin-left: 0;
   }
 
   .md-search__inner {
