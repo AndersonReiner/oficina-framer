@@ -3,9 +3,36 @@ site_description: Material de apoio, roteiro e ambiente interativo para uma ofic
 site_author: Anderson
 
 theme:
-  name: mkdocs
+  name: material
   language: pt-BR
+  palette:
+    - scheme: default
+      primary: black
+      accent: grey
+      toggle:
+        icon: material/weather-night
+        name: Alternar para modo escuro
+    - scheme: slate
+      primary: black
+      accent: grey
+      toggle:
+        icon: material/weather-sunny
+        name: Alternar para modo claro
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 nav:
   - Inicio: index.md
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
