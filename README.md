@@ -11,4 +11,13 @@ pip install -r requirements.txt
 mkdocs --version
 ```
 
-O conteúdo e a configuração da apresentação serão definidos posteriormente.
+## Executar localmente
+
+```bash
+source .venv/bin/activate
+mkdocs serve
+```
+
+Depois acesse `http://127.0.0.1:8000`.
+
+O roteiro detalhado, a dinamica e a estrutura da apresentacao serao definidos posteriormente.

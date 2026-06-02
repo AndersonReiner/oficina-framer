@@ -1,0 +1,11 @@
+site_name: Oficina de Prototipacao com Framer
+site_description: Material de apoio, roteiro e ambiente interativo para uma oficina introdutoria sobre prototipacao de interfaces com Framer.
+site_author: Anderson
+
+theme:
+  name: mkdocs
+  language: pt-BR
+
+nav:
+  - Inicio: index.md
+
