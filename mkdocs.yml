@@ -37,6 +37,18 @@ extra_css:
 
 copyright: Copyright &copy; 2026 Anderson Reiner
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AndersonReiner
+      name: Anderson Reiner no GitHub
+    - icon: fontawesome/brands/github
+      link: https://github.com/gustavo-patricio
+      name: Gustavo Patrick no GitHub
+    - icon: fontawesome/solid/circle-info
+      link: https://squidfunk.github.io/mkdocs-material/
+      name: MkDocs Material
+
 nav:
   - Inicio: index.md
   - Roteiro: roteiro.md
