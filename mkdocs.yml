@@ -54,11 +54,10 @@ nav:
   - Inicio: index.md
   - Roteiro: roteiro.md
   - Preparacao: preparacao.md
-  - Modulos:
-      - Modulo 1 - Introducao: modulo-1-introducao.md
-      - Modulo 2 - Framer: modulo-2-framer.md
-      - Modulo 3 - Desenvolvimento: modulo-3-desenvolvimento.md
-      - Modulo 4 - Pratica: modulo-4-pratica.md
+  - Modulo 1 - Introducao: modulo-1-introducao.md
+  - Modulo 2 - Framer: modulo-2-framer.md
+  - Modulo 3 - Desenvolvimento: modulo-3-desenvolvimento.md
+  - Modulo 4 - Pratica: modulo-4-pratica.md
   - Atividade: atividade.md
   - Referencias: referencias.md
 
