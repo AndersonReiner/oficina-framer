@@ -18,6 +18,7 @@ Esta pagina centraliza os dados de preparacao, recursos didaticos e combinados b
 
 ## Durante a oficina
 
+- Eliminar as distracoes dos smartphones.
 - Acompanhar a demonstracao da ferramenta.
 - Registrar duvidas.
 - Desenvolver o prototipo em grupo.
