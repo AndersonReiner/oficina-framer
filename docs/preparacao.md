@@ -2,19 +2,10 @@
 
 Esta pagina centraliza os dados de preparacao, recursos didaticos e combinados basicos para a oficina.
 
-## Ambiente da oficina
-
-| Campo | Definicao |
-| --- | --- |
-| Modalidade | Oficina pratica interna |
-| Formato | Presencial |
-| Local | Laboratorio de Informatica |
-| Ferramenta | Framer acessivel via navegador |
-
 ## Recursos didaticos
 
 - Laboratorio de informatica.
-- Projetor multimidia.
+- Televisao digital.
 - Computadores com acesso a internet.
 - Framer acessivel via navegador.
 - Material de apoio digital.
