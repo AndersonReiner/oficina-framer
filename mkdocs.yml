@@ -35,7 +35,7 @@ theme:
     code: Roboto Mono
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/workshop.css
 
 nav:
   - Inicio: index.md
