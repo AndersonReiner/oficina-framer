@@ -4,7 +4,7 @@
   <p class="hero__eyebrow">Oficina introdutoria</p>
   <h1 class="hero__title">Prototipacao de interfaces com Framer</h1>
   <p class="hero__text">
-    Uma experiencia pratica para entender como transformar ideias de interface em prototipos navegaveis, com demonstracao guiada e exercicio para iniciantes.
+    Uma experiencia pratica para entender como transformar ideias de interface.
   </p>
   <div class="hero__actions">
     <a class="hero__button hero__button--primary" href="#experiencia">Ver proposta</a>
