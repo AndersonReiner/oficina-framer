@@ -15,7 +15,6 @@ Esta pagina centraliza os dados de preparacao, recursos didaticos e combinados b
 - Confirmar acesso ao Framer.
 - Usar um navegador atualizado.
 - Organizar os participantes em grupos.
-- Preparar um exemplo simples de interface para a atividade pratica.
 
 ## Durante a oficina
 
