@@ -35,19 +35,6 @@ Esta oficina interna apresenta conceitos basicos de prototipacao de interfaces e
 
 A atividade sera conduzida por academicos do curso de Computacao, integrando exposicao dialogada, demonstracao pratica e desenvolvimento colaborativo de um prototipo simples.
 
-## Identificacao
-
-| Campo | Definicao |
-| --- | --- |
-| Titulo | Introducao a Prototipacao de Interfaces com Framer |
-| Area | Computacao |
-| Modalidade | Oficina pratica interna |
-| Publico-alvo | Academicos do curso de Computacao |
-| Carga horaria | 2 horas |
-| Formato | Presencial |
-| Local | Laboratorio de Informatica |
-| Responsaveis | Anderson Reiner, Nathan Felipe e Gustavo Patrick |
-
 ## Objetivo geral
 
 Capacitar os participantes no uso basico do Framer, promovendo a criacao de prototipos simples para aplicacoes digitais.

@@ -50,6 +50,7 @@ extra:
       name: MkDocs Material
 
 nav:
+  - Apresentacao: apresentacao.md
   - Inicio: index.md
   - Roteiro: roteiro.md
   - Preparacao: preparacao.md

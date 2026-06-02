@@ -2,17 +2,14 @@
 
 Esta pagina centraliza os dados de preparacao, recursos didaticos e combinados basicos para a oficina.
 
-## Identificacao
+## Ambiente da oficina
 
 | Campo | Definicao |
 | --- | --- |
-| Instituicao | Universidade do Estado de Mato Grosso |
-| Faculdade | Faculdade de Ciencias Exatas e Tecnologicas |
-| Departamento | Departamento de Computacao |
-| Disciplina | Topicos Avancados em Interfaces |
-| Professora | Kelis Estatiane de Campos |
 | Modalidade | Oficina pratica interna |
+| Formato | Presencial |
 | Local | Laboratorio de Informatica |
+| Ferramenta | Framer acessivel via navegador |
 
 ## Recursos didaticos
 
