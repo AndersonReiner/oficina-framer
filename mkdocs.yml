@@ -7,14 +7,14 @@ theme:
   language: pt-BR
   palette:
     - scheme: default
-      primary: black
-      accent: grey
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Alternar para modo escuro
     - scheme: slate
-      primary: black
-      accent: grey
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
