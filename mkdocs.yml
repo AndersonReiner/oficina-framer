@@ -32,9 +32,6 @@ extra_css:
 
 nav:
   - Inicio: index.md
-  - Comparacao:
-      - Documentacao limpa: documentacao-limpa.md
-      - Landing de oficina: landing-oficina.md
 
 markdown_extensions:
   - admonition

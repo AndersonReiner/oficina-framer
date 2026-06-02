@@ -1,26 +1,40 @@
 # Oficina de Prototipacao com Framer
 
-Esta pagina agora serve como ponto de comparacao para escolhermos a direcao visual inicial da oficina.
+<section class="hero">
+  <p class="hero__eyebrow">Oficina introdutoria</p>
+  <h1 class="hero__title">Prototipacao de interfaces com Framer</h1>
+  <p class="hero__text">
+    Uma experiencia pratica para entender como transformar ideias de interface em prototipos navegaveis, com demonstracao guiada e exercicio para iniciantes.
+  </p>
+  <div class="hero__actions">
+    <a class="hero__button hero__button--primary" href="#experiencia">Ver proposta</a>
+    <a class="hero__button" href="#dinamica">Entender dinamica</a>
+  </div>
+</section>
 
-!!! note "Em construcao"
-    O roteiro detalhado, a dinamica e os exercicios serao definidos nas proximas etapas.
+## Experiencia { #experiencia }
 
-## Opcoes de pagina inicial
+Esta pagina sera a entrada principal da oficina. Ela deve apresentar a proposta, comunicar o tom da atividade e preparar os participantes para uma experiencia introdutoria com Framer.
 
-Escolha uma das duas abordagens para seguirmos customizando:
+<div class="landing-grid">
+  <article class="landing-card">
+    <h3>Iniciante</h3>
+    <p>Conteudo pensado para quem esta comecando em prototipacao e ferramentas de interface.</p>
+  </article>
+  <article class="landing-card">
+    <h3>Pratica guiada</h3>
+    <p>A apresentacao combina demonstracao e atividade para acompanhar o raciocinio passo a passo.</p>
+  </article>
+  <article class="landing-card">
+    <h3>Framer</h3>
+    <p>A ferramenta central sera usada para construir e testar uma proposta de interface.</p>
+  </article>
+</div>
 
-- [Documentacao limpa](documentacao-limpa.md): mais objetiva, organizada e facil de consultar.
-- [Landing page de oficina](landing-oficina.md): mais visual, com primeira secao de impacto e tom de apresentacao.
+## Dinamica { #dinamica }
 
-## Direcao da oficina
-
-| Ponto | Definicao inicial |
-| --- | --- |
-| Ferramenta | Framer |
-| Publico | Iniciante |
-| Formato | Demonstracao e pratica guiada |
-| Visual | Minimalista |
+O roteiro ainda sera definido, mas a pagina ja esta preparada para evoluir como material de apoio, roteiro e ponto de interacao durante a oficina.
 
 ## Proximos passos
 
-Depois de escolher a abordagem, vamos ajustar texto, organizacao, cores, tipografia e componentes visuais com mais precisao.
+Nas proximas etapas vamos ajustar identidade visual, organizacao do conteudo e detalhes da dinamica.
