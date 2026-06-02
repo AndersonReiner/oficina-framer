@@ -16,6 +16,27 @@
   background-color: rgb(255 255 255 / 18%);
 }
 
+.md-search__input {
+  color: #ffffff;
+}
+
+.md-search__input::placeholder {
+  color: rgb(255 255 255 / 72%);
+  opacity: 1;
+}
+
+.md-search__form:focus-within .md-search__input {
+  color: #111827;
+}
+
+.md-search__form:focus-within .md-search__input::placeholder {
+  color: #64748b;
+}
+
+.md-search__form:focus-within .md-search__icon {
+  color: #334155;
+}
+
 @media screen and (min-width: 76.25em) {
   .md-header__inner {
     gap: 0.75rem;
@@ -48,14 +69,8 @@
   }
 
   .md-search__input {
-    color: #ffffff;
     font-size: 0.74rem;
     padding-left: 2.2rem;
-  }
-
-  .md-search__input::placeholder {
-    color: rgb(255 255 255 / 72%);
-    opacity: 1;
   }
 
   .md-search__icon {
