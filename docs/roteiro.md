@@ -4,32 +4,10 @@ Esta pagina organiza o conteudo programatico e a metodologia da oficina.
 
 ## Conteudo programatico
 
-### Modulo 1 - Introducao a prototipacao
-
-- Conceitos de UX e UI.
-- Importancia da prototipacao no desenvolvimento de software.
-- Tipos de prototipos.
-- Exemplos de aplicacoes praticas.
-
-### Modulo 2 - Apresentacao do Framer
-
-- Interface da ferramenta.
-- Criacao de projetos.
-- Componentes basicos.
-- Organizacao de telas.
-
-### Modulo 3 - Desenvolvimento de prototipos
-
-- Criacao de wireframes.
-- Insercao de elementos visuais.
-- Navegacao entre telas.
-- Prototipos interativos.
-
-### Modulo 4 - Atividade pratica
-
-- Desenvolvimento de um prototipo em grupo.
-- Ajustes de usabilidade.
-- Apresentacao dos projetos.
+- [Modulo 1 - Introducao a prototipacao](modulo-1-introducao.md)
+- [Modulo 2 - Apresentacao do Framer](modulo-2-framer.md)
+- [Modulo 3 - Desenvolvimento de prototipos](modulo-3-desenvolvimento.md)
+- [Modulo 4 - Atividade pratica](modulo-4-pratica.md)
 
 ## Metodologia
 
