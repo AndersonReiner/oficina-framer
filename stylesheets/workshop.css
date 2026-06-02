@@ -46,18 +46,25 @@
     flex: 0 1 18rem;
     max-width: 18rem;
     min-width: 0;
+    order: 1;
   }
 
   .md-search {
     margin: 0;
     max-width: 24rem;
     min-width: 16rem;
+    order: 2;
     padding: 0;
     width: 100%;
   }
 
   .md-header__option {
     margin-left: 0;
+    order: 3;
+  }
+
+  .md-header__button[for="__search"] {
+    display: none;
   }
 
   .md-search__inner {
