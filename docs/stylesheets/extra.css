@@ -1,0 +1,75 @@
+.hero {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 28px;
+  margin: 2rem 0;
+  padding: clamp(2rem, 5vw, 4.5rem);
+  background:
+    radial-gradient(circle at top right, rgb(0 0 0 / 8%), transparent 28rem),
+    linear-gradient(135deg, var(--md-default-bg-color), var(--md-code-bg-color));
+}
+
+.hero__eyebrow {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  margin: 0 0 1rem;
+  text-transform: uppercase;
+}
+
+.hero__title {
+  font-size: clamp(2.25rem, 7vw, 5rem);
+  letter-spacing: -0.06em;
+  line-height: 0.94;
+  margin: 0;
+}
+
+.hero__text {
+  color: var(--md-default-fg-color--light);
+  font-size: 1.05rem;
+  max-width: 42rem;
+}
+
+.hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.hero__button {
+  border: 1px solid var(--md-default-fg-color);
+  border-radius: 999px;
+  color: var(--md-default-fg-color);
+  display: inline-block;
+  font-weight: 700;
+  padding: 0.72rem 1rem;
+}
+
+.hero__button--primary {
+  background: var(--md-default-fg-color);
+  color: var(--md-default-bg-color) !important;
+}
+
+.landing-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  margin: 2rem 0;
+}
+
+.landing-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 20px;
+  padding: 1.25rem;
+}
+
+.landing-card h3 {
+  margin-top: 0;
+}
+
+.landing-card p {
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0;
+}
+

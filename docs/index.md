@@ -1,18 +1,16 @@
 # Oficina de Prototipacao com Framer
 
-Uma base de apoio para uma oficina introdutoria sobre prototipos de interfaces com Framer.
+Esta pagina agora serve como ponto de comparacao para escolhermos a direcao visual inicial da oficina.
 
 !!! note "Em construcao"
     O roteiro detalhado, a dinamica e os exercicios serao definidos nas proximas etapas.
 
-## Objetivo inicial
+## Opcoes de pagina inicial
 
-Nesta primeira etapa, o foco e deixar a pagina pronta para evoluir com calma:
+Escolha uma das duas abordagens para seguirmos customizando:
 
-- versionar o material da oficina;
-- publicar a pagina no GitHub Pages;
-- organizar o roteiro quando ele for definido;
-- apoiar uma dinamica pratica com participantes iniciantes.
+- [Documentacao limpa](documentacao-limpa.md): mais objetiva, organizada e facil de consultar.
+- [Landing page de oficina](landing-oficina.md): mais visual, com primeira secao de impacto e tom de apresentacao.
 
 ## Direcao da oficina
 
@@ -25,4 +23,4 @@ Nesta primeira etapa, o foco e deixar a pagina pronta para evoluir com calma:
 
 ## Proximos passos
 
-Os proximos ajustes devem definir a identidade visual, a organizacao do roteiro e a forma como o MkDocs sera usado durante a apresentacao.
+Depois de escolher a abordagem, vamos ajustar texto, organizacao, cores, tipografia e componentes visuais com mais precisao.

@@ -27,8 +27,14 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Inicio: index.md
+  - Comparacao:
+      - Documentacao limpa: documentacao-limpa.md
+      - Landing de oficina: landing-oficina.md
 
 markdown_extensions:
   - admonition
