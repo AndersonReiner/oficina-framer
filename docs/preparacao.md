@@ -1,17 +1,37 @@
 # :material-clipboard-check-outline: Preparacao
 
-!!! tip "Recurso opcional"
-    Esta pagina sera usada para orientar participantes antes da oficina.
+Esta pagina centraliza os dados de preparacao, recursos didaticos e combinados basicos para a oficina.
+
+## Identificacao
+
+| Campo | Definicao |
+| --- | --- |
+| Instituicao | Universidade do Estado de Mato Grosso |
+| Faculdade | Faculdade de Ciencias Exatas e Tecnologicas |
+| Departamento | Departamento de Computacao |
+| Disciplina | Topicos Avancados em Interfaces |
+| Professora | Kelis Estatiane de Campos |
+| Modalidade | Oficina pratica interna |
+| Local | Laboratorio de Informatica |
+
+## Recursos didaticos
+
+- Laboratorio de informatica.
+- Projetor multimidia.
+- Computadores com acesso a internet.
+- Framer acessivel via navegador.
+- Material de apoio digital.
 
 ## Antes da oficina
 
 - Confirmar acesso ao Framer.
-- Separar um navegador atualizado.
-- Ter uma ideia simples de interface para acompanhar a pratica.
+- Usar um navegador atualizado.
+- Organizar os participantes em grupos.
+- Preparar um exemplo simples de interface para a atividade pratica.
 
 ## Durante a oficina
 
-- Acompanhar a demonstracao.
+- Acompanhar a demonstracao da ferramenta.
 - Registrar duvidas.
-- Testar a atividade pratica no proprio ritmo.
-
+- Desenvolver o prototipo em grupo.
+- Apresentar os resultados ao final da atividade.

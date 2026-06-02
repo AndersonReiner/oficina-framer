@@ -14,26 +14,43 @@
 
 ## Experiencia { #experiencia }
 
-Esta pagina sera a entrada principal da oficina. Ela deve apresentar a proposta, comunicar o tom da atividade e preparar os participantes para uma experiencia introdutoria com Framer.
+Esta oficina interna apresenta conceitos basicos de prototipacao de interfaces e o uso do Framer como ferramenta digital para criar wireframes, prototipos interativos e fluxos de navegacao.
 
 <div class="landing-grid">
   <article class="landing-card">
     <h3>Iniciante</h3>
-    <p>Conteudo pensado para quem esta comecando em prototipacao e ferramentas de interface.</p>
+    <p>Conteudo pensado para academicos de Computacao que estao comecando em UX, UI e prototipacao.</p>
   </article>
   <article class="landing-card">
-    <h3>Pratica guiada</h3>
-    <p>A apresentacao combina demonstracao e atividade para acompanhar o raciocinio passo a passo.</p>
+    <h3>2 horas</h3>
+    <p>Formato presencial, com demonstracao da ferramenta e atividade pratica orientada em grupo.</p>
   </article>
   <article class="landing-card">
     <h3>Framer</h3>
-    <p>A ferramenta central sera usada para construir e testar uma proposta de interface.</p>
+    <p>A ferramenta central da oficina sera usada para construir telas, organizar fluxos e simular interacoes.</p>
   </article>
 </div>
 
 ## Dinamica { #dinamica }
 
-O roteiro ainda sera definido, mas a pagina ja esta preparada para evoluir como material de apoio, roteiro e ponto de interacao durante a oficina.
+A atividade sera conduzida por academicos do curso de Computacao, integrando exposicao dialogada, demonstracao pratica e desenvolvimento colaborativo de um prototipo simples.
+
+## Identificacao
+
+| Campo | Definicao |
+| --- | --- |
+| Titulo | Introducao a Prototipacao de Interfaces com Framer |
+| Area | Computacao |
+| Modalidade | Oficina pratica interna |
+| Publico-alvo | Academicos do curso de Computacao |
+| Carga horaria | 2 horas |
+| Formato | Presencial |
+| Local | Laboratorio de Informatica |
+| Responsaveis | Anderson Reiner, Nathan Felipe e Gustavo Patrick |
+
+## Objetivo geral
+
+Capacitar os participantes no uso basico do Framer, promovendo a criacao de prototipos simples para aplicacoes digitais.
 
 ## Convencoes do material
 
@@ -68,4 +85,4 @@ Vamos usar simbolos visuais do Material for MkDocs para sinalizar o tipo de info
 
 ## Proximos passos
 
-Nas proximas etapas vamos ajustar identidade visual, organizacao do conteudo e detalhes da dinamica.
+Nas proximas etapas vamos detalhar o exercicio pratico, a divisao dos grupos e o fluxo que sera construido no Framer.
