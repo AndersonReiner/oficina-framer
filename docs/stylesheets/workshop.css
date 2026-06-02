@@ -29,14 +29,14 @@
   }
 
   .md-search {
-    left: 50%;
     margin: 0;
-    max-width: 28rem;
-    min-width: 18rem;
+    max-width: 24rem;
+    min-width: 16rem;
     padding: 0;
     position: absolute;
+    right: 3.25rem;
     top: 50%;
-    transform: translate(-50%, -50%);
+    transform: translateY(-50%);
     width: 100%;
   }
 
