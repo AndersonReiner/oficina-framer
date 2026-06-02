@@ -3,6 +3,25 @@
   background-color: #000080;
 }
 
+.md-search__form {
+  background-color: rgb(255 255 255 / 12%);
+  border: 1px solid rgb(255 255 255 / 16%);
+}
+
+.md-search__form:hover {
+  background-color: rgb(255 255 255 / 18%);
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-search {
+    width: 16rem;
+  }
+
+  .md-search__input {
+    font-size: 0.72rem;
+  }
+}
+
 :root {
   --workshop-accent: #000080;
 }

@@ -1,6 +1,7 @@
 site_name: Oficina de Prototipacao com Framer
 site_description: Material de apoio, roteiro e ambiente interativo para uma oficina introdutoria sobre prototipacao de interfaces com Framer.
 site_author: Anderson
+site_url: https://andersonreiner.github.io/oficina-framer/
 
 theme:
   name: material
@@ -20,9 +21,15 @@ theme:
         name: Alternar para modo claro
   features:
     - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - content.code.copy
+    - search.highlight
+    - search.suggest
   font:
     text: Roboto
     code: Roboto Mono
@@ -32,10 +39,21 @@ extra_css:
 
 nav:
   - Inicio: index.md
+  - Roteiro: roteiro.md
+  - Preparacao: preparacao.md
+  - Atividade: atividade.md
+  - Referencias: referencias.md
+
+plugins:
+  - search:
+      lang: pt
 
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
   - pymdownx.superfences
