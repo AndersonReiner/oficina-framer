@@ -19,7 +19,7 @@ Esta oficina interna apresenta conceitos basicos de prototipacao de interfaces e
 <div class="landing-grid">
   <article class="landing-card">
     <h3>Iniciante</h3>
-    <p>Conteudo pensado para academicos de Computacao que estao comecando em UX, UI e prototipacao.</p>
+    <p>Conteudo pensado para academicos com pouca experiencia em UX, UI e prototipacao, ate alunos que ja utilizam outras ferramentas.</p>
   </article>
   <article class="landing-card">
     <h3>2 horas</h3>
