@@ -5,6 +5,7 @@ Este modulo aplica os conhecimentos anteriores em uma atividade colaborativa.
 ## Conteudos
 
 - Desenvolvimento de um prototipo em grupo.
+- Escolha orientada de uma proposta de projeto.
 - Ajustes de usabilidade.
 - Apresentacao dos projetos.
 
@@ -16,3 +17,4 @@ Estimular o trabalho em equipe e a aplicacao dos conceitos vistos na oficina em 
 
 Ao final deste modulo, cada grupo deve apresentar um prototipo simples, organizado e funcional, demonstrando entendimento do fluxo e das decisoes de interface.
 
+Para iniciar a atividade, consulte a [lista de projetos e o procedimento de escolha](atividade.md#escolha-do-projeto). O grupo deve registrar uma unica proposta antes de comecar a criar as telas.
